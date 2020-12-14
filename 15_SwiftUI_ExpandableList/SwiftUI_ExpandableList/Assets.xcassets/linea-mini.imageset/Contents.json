@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "linea-mini.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "strada-av.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
